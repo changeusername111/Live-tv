@@ -7,7 +7,7 @@
 4. Run Dashboard > Scheduled Tasks > Refresh Guide, or use the Live TV "Refresh Guide" button. Channel numbers start at 1.
 *********************************************
 Channel List
-
+*********************************************
 001 ABC News Live
 
 002 CBS News 24/7
